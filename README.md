@@ -18,7 +18,7 @@ Este template é ideal para iniciar projetos Python de forma rápida e organizad
 
 - [Python 3.11+](https://www.python.org/downloads/)
 - [Docker](https://docs.docker.com/get-docker/)
-- [Docker Compose](https://docs.docker.com/compose/install/) (opcional, mas recomendado).
+- [Docker Compose](https://docs.docker.com/compose/install/) 
 
 ### 🔧 Instalação
 
